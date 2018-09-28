@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "This week Post"
+date: 2018-09-25
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Well This week. We start on Monday talking about using contracts and examples sloving the problems so we can understand are video that we are making better.Tuesday we talked about Video games Coordinates.
