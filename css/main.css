@@ -1,4 +1,9 @@
 body {
+     background-image: url("https://rvca738f6h5tbwmj3mxylox3-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/ALMY_E4JWWG_Castle_Flowers.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
     margin: 60px auto;
     width: 70%;
 }
