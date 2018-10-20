@@ -8,5 +8,5 @@ date: 2018-10-18
 
 <p> On October 4th we started on the flag Project. We had to choose the flag we whanted to create.At first I i didnt know what I whanted to do so I thought of something important to me. Which was the Korea Flag but I realize I wasnt ready for the flag , so i decide to do the Japan Flag, But before we was allow we had to make a construction of the flag. This is example of my flag
 ![Github Logo](/images/Con of Japan Flag.jpg)</p>
-
+![Github Logo](/images/Con of Japan Flag.jpg)
 ![Github Logo](/images/Japan Flag.png)
