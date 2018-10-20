@@ -26,14 +26,16 @@ a:hover {
      color:#ff72b9;
 }
 h1 {
+     
     font-size: 3em;
     font-style: italic;
 }
 p {
+    font-weight: bold;
     font-style: italic;
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #ff5bac;
+    color: #FFFFFF;
 }
 footer {
     border-top: 1px solid #d5d5d5;
