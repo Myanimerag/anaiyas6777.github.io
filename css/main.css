@@ -1,10 +1,10 @@
 body {
-     background-image: url("https://media.giphy.com/media/YI1ATglLC6Kbe/giphy.gif");
+     background-image: url("https://typeset-beta.imgix.net/lovelace/uploads/862/f1e62250-a688-0133-39b0-06e18a8a4ae5.gif");
     background-repeat: no-repeat;
     background-position: right top;
-    margin-right: 200px;
+    margin-right: 800px;
     background-attachment: fixed;
-    margin: 60px auto;
+    margin: 500px auto;
     width: 70%;
 }
 nav ul, footer ul {
