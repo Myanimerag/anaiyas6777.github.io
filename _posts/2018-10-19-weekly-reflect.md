@@ -21,3 +21,5 @@ RC=circle((200 * 3/5) / 2 ,"solid","red")
 place-image(RC, 300/2 , 200/2 , RW),and I the bottom is the finish piece.</p>
 
 ![Github Logo](/images/Japan Flag.png)
+
+![alt text](https://cdn74.picsart.com/194895568002202.gif?r1024x1024)
