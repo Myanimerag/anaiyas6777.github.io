@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Learning of The Flag"
+title: "Funtion & Contracts"
 date: 2018-11-2
 ---
 
