@@ -8,4 +8,8 @@ date: 2018-10-26
   
 <p>The internet. We all used it on a day to day bases so do I. I use the internet everyday especially in school. My school invole the internet all the time. Without the internet there wouldnt be no such thing as pyret,java,html and etc, because everthing you are on sracth that everthing around you involes the internet.</p>
 
+<p> 
+Well goodbye my readers, I wish I was able to explain more unfortunately cant. Come back next week for the new update.
+</p>
+
 ![alt text](https://cdn74.picsart.com/194895568002202.gif?r1024x1024)
