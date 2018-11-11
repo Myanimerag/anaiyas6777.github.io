@@ -22,4 +22,8 @@ place-image(RC, 300/2 , 200/2 , RW),and I the bottom is the finish piece.</p>
 
 ![Github Logo](/images/Japan Flag.png)
 
+<p> 
+Well goodbye my readers, I wish I was able to explain more unfortunately cant. Come back next week for the new update.
+</p
+
 ![alt text](https://cdn74.picsart.com/194895568002202.gif?r1024x1024)
