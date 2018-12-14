@@ -24,6 +24,6 @@ place-image(RC, 300/2 , 200/2 , RW),and I the bottom is the finish piece.</p>
 
 <p> 
 Well goodbye my readers, Come back next week for the new update.
-</p
+</p>
 
 ![alt text](https://cdn74.picsart.com/194895568002202.gif?r1024x1024)
