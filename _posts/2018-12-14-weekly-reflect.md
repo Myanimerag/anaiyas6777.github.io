@@ -12,7 +12,7 @@ date: 2018-12-14
 <p> 
 Well goodbye my readers, Come back next week for the new update.
 </p>
-<img src="https://memestatic.fjcdn.com/gifs/Anime+gifchristmas+edition_6cba6d_6473227.gif" width="400px" height="200px>
+<img src="https://anaiyas6777.github.io/images/Screenshot%20from%202018-12-14%2014-51-16.png" width="400px" height="200px">
 
 
 
