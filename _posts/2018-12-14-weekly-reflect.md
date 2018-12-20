@@ -12,7 +12,7 @@ date: 2018-12-14
 <p> 
 Well goodbye my readers, Come back next week for the new update.
 </p>
-![alt text](https://cdn74.picsart.com/194895568002202.gif?r1024x1024)
+<img src="https://cdn74.picsart.com/194895568002202.gif?r1024x1024" width="400px" height="200px>
 
 
 
