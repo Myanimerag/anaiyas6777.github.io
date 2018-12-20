@@ -52,4 +52,6 @@ Insert 10-15 line code section here _then delete this instruction_
 
 ```
 Insert entire program here _then delete this instruction_
+
 ```
+<img src="https://static.tumblr.com/e8549cd1f5c0825bd7fe951250d20b3f/6qvupbf/tXoovrhzl/tumblr_static_tumblr_static_filename_640.gif" width="400px" height="200px">
