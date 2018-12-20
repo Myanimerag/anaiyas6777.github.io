@@ -15,4 +15,4 @@ My understanding of a is that a function is a unit of code that is often defined
 Well goodbye my readers, I wish I was able to explain more unfortunately cant. Come back next week for the new update.
 </p>
 
-![alt text](https://cdn74.picsart.com/194895568002202.gif?r1024x1024)
+<img src="https://static.tumblr.com/e8549cd1f5c0825bd7fe951250d20b3f/6qvupbf/tXoovrhzl/tumblr_static_tumblr_static_filename_640.gif" width="400px" height="200px">
