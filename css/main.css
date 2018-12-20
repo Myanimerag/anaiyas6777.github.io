@@ -24,7 +24,7 @@ a {
 a:hover {
     text-decoration: underline;
      color: #c0c0c0;
-    color: #ffffff;
+    color: #FFFF00;
 }
 h1 {
      
@@ -46,7 +46,7 @@ footer {
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-    color: #FFFF00;
+    color: #ffffff;
 }
 
 ul.posts li {
