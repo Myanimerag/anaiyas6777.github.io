@@ -20,16 +20,16 @@ date: 2018-12-21
 * * *
 
 ## Describe your process.
- As you can see my progress could be a little better than it is but what i really need is understanding of some of the quetions that I have.
+-   As you can see my progress could be a little better than it is but what i really need is understanding of some of the quetions that I have.
 -  How make to make a an right proti
 
 
-<!--- Delete this comment and add your writing -->
+
 
 
 ## Explain your code.
 
-Below is my code of my flag. As you see i have names for part of my flags. 
+-   Below is my code of my flag. As you see i have names for part of my flags. 
 
 * * *
 
