@@ -4,21 +4,18 @@ title: "Flag Project - Final Submission"
 date: 2018-12-21
 ---
 
-## Flag of _insert your country_ by _insert your name_
+## Flag of Australia by Anaiya S.
 
-## Describe your program
+## Description of my Flag
 
--   What country did you design for? _then delete this instruction_
--   What grade do you expect? _then delete this instruction_
+-   What country did you design for?The flag of Australia come from Australia a Country in Oceania.
+-   What grade do you expect? The grade that i expect for myself is a professional but if im being honsty i think i will probably get an apprentice
 
-<!--- Delete this comment and add your writing -->
 
-## Current output
-
--   Insert an image that your program currently produces. _then delete this instruction_
+## My Progess 
 
 * * *
-![Flag](/images/final-flag.png)
+<img src="https://anaiyas6777.github.io/images/flag 2.0.png" width="400px" height="200px">
 * * *
 
 ## Describe your process.
