@@ -16,25 +16,52 @@ date: 2018-12-21
 
 * * *
 <img src="https://anaiyas6777.github.io/images/flag 2.0.png" width="400px" height="200px">
+<img src="https://anaiyas6777.github.io/images/Flag_of_Australia.svg" width="400px" height="200px">
 * * *
 
 ## Describe your process.
+ As you can see my progress could be a little better than it is but what i really need is understanding of some of the quetions that I have.
+-  How make to make a an right proti
 
--   What questions, strategies, help from peers or teacher, or thinking got you to this point? _then delete this instruction_
 
 <!--- Delete this comment and add your writing -->
 
 
 ## Explain your code.
 
--   Choose a significant part of your program (15 lines max) and paste it below. Do not insert your entire program here. _then delete this instruction_
--   Explain each argument in the code section. _then delete this instruction_
--   Tell us how it functions independently and within the whole program _then delete this instruction_
+Below is my code of my flag. As you see i have names for part of my flags. 
 
 * * *
 
 ```
-Insert 10-15 line code section here _then delete this instruction_
+include image 
+
+A=rectangle(300,200,"outline","white")
+B=rectangle(600,400,"solid","blue")
+
+E=place-image(A, 300/2 , 200/2 , B) 
+
+C=rectangle(50,200,"solid", "white")
+D=rectangle(300,200,"solid", "white")
+
+size = 100
+
+width = size * 3
+height = size * 2
+
+rectangle(width , height , "outline" , "blue")
+
+stripe-height = height / 6
+stripe-width = width / 2                                             
+
+rectangle(stripe-width , stripe-height , "solid" , "white")
+
+box-height = size * 6
+box-width = size * 4
+
+rectangle(box-height, box-width, "solid", "blue")
+
+
 ```
 
 * * *
@@ -42,13 +69,5 @@ Insert 10-15 line code section here _then delete this instruction_
 -   Explain the code you posted by telling us about each argument.
 -   Then tell us how your code section fits into the whole.
  
-<!--- Delete this comment and add your writing -->
 
-
-## Program code
-
-```
-Insert entire program here _then delete this instruction_
-
-```
 <img src="https://static.tumblr.com/e8549cd1f5c0825bd7fe951250d20b3f/6qvupbf/tXoovrhzl/tumblr_static_tumblr_static_filename_640.gif" width="400px" height="200px">
