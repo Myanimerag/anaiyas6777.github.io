@@ -2,10 +2,10 @@ body {
     background-image: url("https://wallimpex.com/data/out/393/color-gradient-wallpaper-hd-7663620.jpg");
     background-repeat: no-repeat;
     background-position: right top;
-    margin-right: 60px;
+    margin-right: 600px;
     background-attachment: fixed;
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
 }
 nav ul, footer ul {
     font-style: italic;
