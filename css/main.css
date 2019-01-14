@@ -2,10 +2,10 @@ body {
     background-image: url("https://www.makelifelovely.com/wp-content/uploads/2016/06/How-to-make-an-ombre-tissue-paper-backdrop-for-a-party.jpg");
     background-repeat: no-repeat;
     background-position: right top;
-    margin-right: 200px;
+    margin-right: 1200px;
     background-attachment: fixed;
     margin: 60px auto;
-    width: 70%;
+    width: 100%;
 }
 nav ul, footer ul {
     font-style: italic;
